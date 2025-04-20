@@ -1,0 +1,7 @@
+{
+    "name": "certbot",
+    "version": "2.0.0",
+    "dependencies": ["python", "openssl"],
+    "architecture": "arm64",
+    "url": "certbot.sfx"
+}
